@@ -2,4 +2,4 @@ package modvertest
 
 func Hello() {}
 
-const Version = 1
+const Version = 2
