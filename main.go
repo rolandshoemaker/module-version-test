@@ -1,0 +1,3 @@
+package modvertest
+
+func Hello() {}
